@@ -1,9 +1,7 @@
 # Office-Downgrade-Script
 This tool is aimed at IT professionals that want to upgrade/downgrade Microsoft Office on mass using a single Powershell script. I'm too lazy to make a readme so here is one from Qwen3.7 Max:
 
-# Office Downgrade/Rollback Script
 
-A PowerShell automation tool designed for IT professionals to mass downgrade, upgrade, or reinstall Microsoft Office 365 on Windows machines using the official Office Deployment Tool (ODT).
 
 ## 🚀 Features
 - Automatically downloads and extracts the latest **Office Deployment Tool (ODT)**.
