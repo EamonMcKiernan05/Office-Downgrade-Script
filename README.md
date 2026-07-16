@@ -1,2 +1,2 @@
 # Office-Downgrade-Script
-Silent Office downgrade Powershell script using Office Deployment Tool.
+This tool is aimed at IT professionals that want to upgrade/downgrade Microsoft Office on mass using a single Powershell script.
