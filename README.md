@@ -1,4 +1,3 @@
-# Office-Downgrade-Script
 This tool is aimed at IT professionals that want to upgrade/downgrade Microsoft Office on mass using a single Powershell script. I'm too lazy to make a readme so here is one from Qwen3.7 Max:
 
 
